@@ -275,8 +275,26 @@ textarea {
   font-weight: 700;
 
 }
-iframe {
-  width: 95%;
-  margin: auto;
+.pin {
+  color: #cf0234;
 }
 
+.leaf {
+color: #6e750e;
+}
+
+.vinyl {
+color: #3f012c;
+}
+
+.soundcloud {
+color: #f97306;
+}
+
+.hashtag {
+  color: #464196;
+}
+
+.bandcamp {
+  color: #411900;
+}

@@ -275,4 +275,8 @@ textarea {
   font-weight: 700;
 
 }
+iframe {
+  width: 95%;
+  margin: auto;
+}
 
